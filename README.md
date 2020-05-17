@@ -3,8 +3,8 @@ Thanks to these codes, you can use whatsapp dark theme.
 
 [For Support](https://rucesocial.com "RuceSocial.com")
 
+# 1.Install Chrome [Extensions](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo "RuceSocial.com")
 
-# 1.Install Chrome Extensions
 
 ![Install Chrome Extensions](https://i.resimyukle.xyz/A8xxzS.png "RuceSocial")
 

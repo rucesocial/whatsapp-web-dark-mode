@@ -3,7 +3,7 @@
 // @namespace    https://rucesocial.com
 // @version      0.1
 // @description  Whatsapp Web Dark Mode
-// @author       You
+// @author       Ömer Faruk
 // @match        https://*.web.whatsapp.com/*
 // @grant        none
 // ==/UserScript==
